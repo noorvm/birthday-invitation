@@ -1,4 +1,4 @@
-import Ballpit from "./components/BallPit";
+import Ballpit from "./components/ballPit";
 import "./index.css";
 import im1 from "./assets/images/img1.jpeg";
 import im2 from "./assets/images/img2.jpeg";
